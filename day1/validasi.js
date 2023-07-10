@@ -18,4 +18,3 @@ function validateForm() {
     alert('sudah tervalidasi!');
     return true;
   }
-  
